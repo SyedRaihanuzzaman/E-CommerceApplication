@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276897997527",
+    "project_id": "pkart-7f135",
+    "storage_bucket": "pkart-7f135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276897997527:android:aa8a17027cb6344c9d4692",
+        "android_client_info": {
+          "package_name": "com.example.pkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSE4OjOJa7VWUB6RlpA973USHkIKK3J50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
